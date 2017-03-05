@@ -13,6 +13,6 @@ document.getElementById("enviar").onclick=function calcular() {
   "Obesidad	            Más de 30.0</pre>";
 }
 
-document.getElementById("form").onsubmit=function(e){
+document.getElementById('form').onsubmit=function(e){
   e.preventDefault();
 }
